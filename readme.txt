@@ -1,1 +1,2 @@
 learngit
+this a readme
